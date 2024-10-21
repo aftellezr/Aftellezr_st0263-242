@@ -1,11 +1,7 @@
 # info de la materia: st0263-242
-#
 # Estudiante(s): Andrés Felipe Téllez Rodríguez, aftellezr@eafit.edu.co
-#
 # Profesor: EDWIN NELSON MONTOYA MUNERA, emontoya@eafit.edu.co
-
 # Aplicación Monolítica con Balanceo y Datos Distribuidos (BD y archivos) Kubernetes
-#
 # 1. breve descripción de la actividad
 #
 En el reto 2 – parte 1, se desplegó una versión dockerizada de un CMS o LMS, con un
@@ -45,15 +41,10 @@ Por detras es que se entran y salen los datos a la base de datos, y la instancia
 # 5. otra información que considere relevante para esta actividad.
 
 # referencias:
-## [sitio1-url ](https://www.youtube.com/watch?v=z3uzxUez8rw&list=PLkqaOL-oB94HAIRkA_5qdqk-x-1Hgo4i2&index=1)
-## [sitio2-url](https://www.youtube.com/watch?v=DCoBcpOA7W4)
-## [sitio1-url ](https://www.youtube.com/watch?v=_2otJP0xmfs)
-## [sitio1-url](https://www.youtube.com/watch?v=lNm61mN67DQ)
-## [sitio1-url](https://www.youtube.com/watch?v=xJ7BKnZbwCU)
-## [sitio1-url](https://www.youtube.com/watch?v=AOmw6pl7iWk)
-## sitio1-url
-## sitio1-url
-## sitio1-url
-## sitio1-url
-## sitio1-url
-## sitio1-url
+## [Crear cluster AWS](https://www.youtube.com/watch?v=z3uzxUez8rw&list=PLkqaOL-oB94HAIRkA_5qdqk-x-1Hgo4i2&index=1)
+## [Tutorial Kubernetes](https://www.youtube.com/watch?v=DCoBcpOA7W4)
+## [MySQL](https://www.youtube.com/watch?v=_2otJP0xmfs)
+## [Moodle](https://www.youtube.com/watch?v=lNm61mN67DQ)
+## [Nginx](https://www.youtube.com/watch?v=xJ7BKnZbwCU)
+## [Nginx 2](https://www.youtube.com/watch?v=AOmw6pl7iWk)
+## [NFS](https://www.youtube.com/watch?v=5uNJTTp6e_0)
