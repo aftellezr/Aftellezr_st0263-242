@@ -3,7 +3,7 @@
 # Profesor: EDWIN NELSON MONTOYA MUNERA, emontoya@eafit.edu.co
 # Aplicación Monolítica con Balanceo y Datos Distribuidos (BD y archivos) Kubernetes
 # 1. breve descripción de la actividad
-#
+
 En el reto 2 – parte 1, se desplegó una versión dockerizada de un CMS o LMS, con un
 balanceador simple de cargas, sin autoescalamiento y con integración de la base de datos y
 el sistema de archivos distribuido.
